@@ -1,6 +1,6 @@
 # Hosting fullstack application
 
-This is a fullstack application that deals with API's, Database and Frontend, it was uploaded to AWS using ElasticBeanstalk, S3 and RDS for the database.
+This is a fullstack application that deals with API's, Database and Frontend, it was uploaded to AWS using EB cli and AWS cli. ElasticBeanstalk was used for API S3 was used for the frontend as well as storage for images and RDS for the postgresql database.
 
 ## Getting started
 
@@ -36,4 +36,5 @@ This is a fullstack application that deals with API's, Database and Frontend, it
   ### Pipeline:
   Circleci
 
-
+## Screenshots and infrastructure
+For screenshots and system infrastructure please refer to docs
