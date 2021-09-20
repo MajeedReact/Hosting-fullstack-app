@@ -20,3 +20,20 @@ This is a fullstack application that deals with API's, Database and Frontend, it
 2. Upload images
 3. Retrive images
 
+## Dependencies 
+  ### Backend:
+  1. Nodejs
+  2. Express
+  3. JWT
+  4. bcrypt
+
+  ### Frontend:
+  Angular
+  
+  ### Testing:
+  Jasmine unit test
+  
+  ### Pipeline:
+  Circleci
+
+
