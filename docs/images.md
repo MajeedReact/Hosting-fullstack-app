@@ -1,8 +1,5 @@
   ## Screenshots
   
-  ### Frontend:
-  ![Frontend](https://user-images.githubusercontent.com/53359513/134074873-8a1eed98-e815-4a08-8dc1-2985e3353630.jpg)
-  
   ### EB Health:
   ![Backend health](https://user-images.githubusercontent.com/53359513/134074996-a72e4b32-877b-4806-b9fa-1a9226e9bfdb.jpg)
   
